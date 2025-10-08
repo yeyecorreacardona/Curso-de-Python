@@ -11,7 +11,7 @@ No es necesario declarar el tipo de dato de una variable antes de usarla, ya que
 Los tipos de datos más comunes en Python son:
 - int: números enteros  (positivos y negativos) """
 
-
+ 
 """
 variables en python
 """
